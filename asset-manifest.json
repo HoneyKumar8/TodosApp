@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/HoneyKumar8/TodosApp.git/static/css/main.be37ab31.chunk.css",
-    "main.js": "/HoneyKumar8/TodosApp.git/static/js/main.52f6929c.chunk.js",
-    "main.js.map": "/HoneyKumar8/TodosApp.git/static/js/main.52f6929c.chunk.js.map",
+    "main.js": "/HoneyKumar8/TodosApp.git/static/js/main.eabc169e.chunk.js",
+    "main.js.map": "/HoneyKumar8/TodosApp.git/static/js/main.eabc169e.chunk.js.map",
     "runtime-main.js": "/HoneyKumar8/TodosApp.git/static/js/runtime-main.255bf390.js",
     "runtime-main.js.map": "/HoneyKumar8/TodosApp.git/static/js/runtime-main.255bf390.js.map",
-    "static/js/2.d335534c.chunk.js": "/HoneyKumar8/TodosApp.git/static/js/2.d335534c.chunk.js",
-    "static/js/2.d335534c.chunk.js.map": "/HoneyKumar8/TodosApp.git/static/js/2.d335534c.chunk.js.map",
+    "static/js/2.628bb839.chunk.js": "/HoneyKumar8/TodosApp.git/static/js/2.628bb839.chunk.js",
+    "static/js/2.628bb839.chunk.js.map": "/HoneyKumar8/TodosApp.git/static/js/2.628bb839.chunk.js.map",
     "index.html": "/HoneyKumar8/TodosApp.git/index.html",
     "static/css/main.be37ab31.chunk.css.map": "/HoneyKumar8/TodosApp.git/static/css/main.be37ab31.chunk.css.map",
-    "static/js/2.d335534c.chunk.js.LICENSE.txt": "/HoneyKumar8/TodosApp.git/static/js/2.d335534c.chunk.js.LICENSE.txt"
+    "static/js/2.628bb839.chunk.js.LICENSE.txt": "/HoneyKumar8/TodosApp.git/static/js/2.628bb839.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.255bf390.js",
-    "static/js/2.d335534c.chunk.js",
+    "static/js/2.628bb839.chunk.js",
     "static/css/main.be37ab31.chunk.css",
-    "static/js/main.52f6929c.chunk.js"
+    "static/js/main.eabc169e.chunk.js"
   ]
 }
